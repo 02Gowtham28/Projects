@@ -19,6 +19,7 @@ Conditional Formatting
 Data Validation
 📷 Dashboard Preview
 (Insert a screenshot of your dashboard here)
+![Screenshot 2025-01-30 001305](https://github.com/user-attachments/assets/c9a588a9-8df1-4c99-b1d1-ff678d2fd246)
 
 📖 How to Use
 Open the file in Excel.
