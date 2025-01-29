@@ -1,10 +1,10 @@
 #📊 Dynamic Retail Dashboard
 ##📌 Overview
-This project is a Dynamic Retail Dashboard created in Excel, designed to provide key retail insights through interactive visualizations. It helps in analyzing sales trends, customer behavior, and product performance effectively.
+###This project is a Dynamic Retail Dashboard created in Excel, designed to provide key retail insights through interactive visualizations. It helps in analyzing sales trends, customer behavior, and product performance effectively.
 
-📂 Features
-✅ Interactive charts and graphs
-✅ Pivot tables for flexible data exploration
+##📂 Features
+##✅ Interactive charts and graphs
+##✅ Pivot tables for flexible data exploration
 ✅ Dynamic filters and slicers
 ✅ Automated calculations and KPIs
 ✅ Sales, revenue, and profit tracking
